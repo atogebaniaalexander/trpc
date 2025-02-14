@@ -35,3 +35,4 @@ export const Person = {
       return users.splice(index, 1)[0];
     },
 };
+
